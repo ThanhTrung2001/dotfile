@@ -2,6 +2,8 @@
 
 Configuration for working environment on Mac, Window &amp; Linux-Ubuntu
 
+from https://scoop.sh/#/apps?q=docker & VUNGUYENCODER
+
 Environment
 
 - clink
