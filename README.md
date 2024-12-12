@@ -9,6 +9,7 @@ Environment
   - config like oh-my-posh website
 - powershell 7 -> set powershell7 to the default
 - neovim + clone GitHub nvchad
+  - git clone https://github.com/ThanhTrung2001/NvChad_Config.git $env:LOCALAPPDATA\nvim
   - put nvim folder in User/<Name>/AppData/Local/
 - git
 - msys2
