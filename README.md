@@ -7,6 +7,7 @@ from https://scoop.sh/#/apps?q=docker & VUNGUYENCODER
 Environment
 
 - clink
+- ripgrep
 - oh-my-posh
   - config like oh-my-posh website
 - powershell 7 -> set powershell7 to the default
