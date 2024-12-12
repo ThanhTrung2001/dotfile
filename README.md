@@ -6,23 +6,25 @@ Environment
 
 - clink
 - oh-my-posh
-- powershell 7
+  - config like oh-my-posh website
+- powershell 7 -> set powershell7 to the default
 - neovim + clone GitHub nvchad
   - put nvim folder in User/<Name>/AppData/Local/
 - git
 - msys2
-	after install, follow this link 
-	- https://code.visualstudio.com/docs/cpp/config-mingw
+  after install, follow this link
+  - https://code.visualstudio.com/docs/cpp/config-mingw
 - flutter (sdk, path)
-	- should add path into environment variable for window after install
+  - should add path into environment variable for window after install
 - nodejs - nvm
 - .net sdk
-	- should setup directly by https://dotnet.microsoft.com/en-us/download
+  - should setup directly by https://dotnet.microsoft.com/en-us/download
 - python
 - java
-	- like dotnet, should setup directly and manage path
+  - like dotnet, should setup directly and manage path
 
 App & features
+
 - wsl
 - docker
 - vscode
