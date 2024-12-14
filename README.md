@@ -1,8 +1,8 @@
 # dotfile
 
-Configuration for working environment on Mac, Window &amp; Linux-Ubuntu
+Configuration for working environment on Window
 
-from https://scoop.sh/#/apps?q=docker & VUNGUYENCODER
+- from https://scoop.sh/#/apps?q=docker & VUNGUYENCODER
 
 PS:
 
