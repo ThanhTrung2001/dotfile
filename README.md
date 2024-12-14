@@ -4,6 +4,13 @@ Configuration for working environment on Mac, Window &amp; Linux-Ubuntu
 
 from https://scoop.sh/#/apps?q=docker & VUNGUYENCODER
 
+PS:
+
+1. Please run file : RUN.PS1 as ADMINISTRATOR in powershell.
+2. Please know that your install package/app/folder will contains in C:/User/<Username>/scoop folder, so REMEMBER TO ADD THE RIGHT PATH
+3. in path_for_user_environment, add path like an array
+4. in system_variable, add key = "value" to hash table
+
 Environment
 
 - clink
@@ -26,6 +33,11 @@ Environment
 - python
 - java
   - like dotnet, should setup directly and manage path
+    -sql server - install directly
+  - smss
+  - sql server 2022
+- sqlite
+  -p ath
 
 App & features
 
