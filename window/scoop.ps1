@@ -40,13 +40,14 @@ Write-Start -msg "Install scoop's package-envionment..."
 scoop install main/winget
 scoop install main/nodejs-lts
 scoop install main/python
-scoop install extras/flutter
-scoop install nerd-fonts/0xProto-NF
 scoop install main/clink
 scoop install main/oh-my-posh
 scoop install main/msys2
 scoop install main/ripgrep
 scoop install main/sqlite
+scoop install extras/flutter
+scoop install nerd-fonts/0xProto-NF
+scoop install nerd-fonts/Lekton-NF
 # Start-Process -Wait powershell -Verb runAs -ArgumentList "scoop install"
 Write-Done
 
@@ -79,6 +80,7 @@ winget install --id Microsoft.PowerShell --source winget # powershell 7
 scoop install main/neovim
 scoop install main/7zip
 scoop install main/scrcpy
+scoop install main/nginx
 scoop install extras/vscode
 scoop install extras/winrar
 scoop install extras/localsend
